@@ -1,0 +1,7 @@
+{
+	"id": "graph-link-remover",
+	"name": "Graph link remover",
+	"description": "Remove graph links",
+	"version": "1.0.0",
+	"author": "bhfsilva"
+}
