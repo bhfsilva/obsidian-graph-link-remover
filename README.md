@@ -1,6 +1,6 @@
 🇧🇷 **pt-BR:**
 
-Plugin do obsidian para ocultar links entre arquivos na visualização de grafos.
+Plugin simples do Obsidian para ocultar links entre arquivos na visualização de grafos.
 
 Feito para uso pessoal.
 
@@ -11,7 +11,7 @@ Para alterar essa condição, apenas edite o método [`removable(graphLink)`](ht
 
 🇺🇸 **en-US:**
 
-Obsidian plugin to hide links between files in graph view.
+Simple Obsidian plugin to hide links between files in graph view.
 
 Made for personal use.
 
